@@ -8,6 +8,7 @@ url: "" # the base hostname & protocol for your site
 twitter_username:
 github_username:
 instagram_username: "tristan.angieri"
+spotify_username: "5HCUJb7ges7tmvYRtNOMNh?si=tZ-ng7wERyyWEWF4rlWq-Q"
 
 # Build settings
 markdown: kramdown
