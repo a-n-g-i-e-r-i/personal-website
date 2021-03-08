@@ -1,6 +1,6 @@
 # Site settings
-title: Tristan Angieri
-email: integrate.me.story@gmail.com
+title: "Tristan Angieri"
+email: "integrate.me.story@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/home/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
